@@ -30,7 +30,8 @@
 
 # objetivos <a name="id01"></a>
 
-Ambiente de estudo focado na exploração front-end.
+Ambiente de estudo focado na exploração front-end. <br>
+Acesse os <a href='https://www.casadocodigo.com.br/collections/front-end-javascript'>livros da casa do código </a> e comece a evoluir com suas habilidades front-end!
 
 
 # descrição detalhada <a name="id01.01"></a>
