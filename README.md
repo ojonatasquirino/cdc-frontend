@@ -57,6 +57,8 @@ Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e Jav
 <div  align='center'> 
 
  [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ [![cdc](https://img.shields.io/badge/casa_do_código-0D1117?style=for-the-badge&logo=Databricks&logoColor=orange)](https://www.casadocodigo.com.br/)
+ 
 
 </div>
 
