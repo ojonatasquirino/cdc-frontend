@@ -20,27 +20,32 @@
 
 - [objetivos](#id01)
 - [descrição detalhada](#id01.01)
-- [tecnologias de estudos](#id04)
-- - [documentação e cursos](#id04.01)
-- [ambiente de codificação](#id05)
-- [clonagem e instalação](#id06)
-- [autoria](#id07)
+- [tecnologias de estudos](#id02)
+- - [documentação e cursos](#id02.01)
+- [ambiente de codificação](#id03)
+- [clonagem e instalação](#id04)
+- [autoria](#id05)
 
 
 
 # objetivos <a name="id01"></a>
 
 Ambiente de estudo focado na exploração front-end. <br>
-Acesse os <a href='https://www.casadocodigo.com.br/collections/front-end-javascript'>livros da casa do código </a> e comece a evoluir com suas habilidades front-end!
+Acesse os <a href='https://www.casadocodigo.com.br/collections/front-end-javascript'>livros da casa do código </a> e comece a evoluir com suas habilidades front-end e programação em geral!
 
 
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e JavaScript através dos livros da casa do Código <code>Lógica de programação com JavaScript</code> e <code>HTML & CSS • Dominando a Web do futuro</code>. Este repositório servirá como um registro do meu progresso e insights obtidos ao longo do estudo.
+Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e JavaScript através dos livros da casa do Código Lógica de programação com JavaScript e HTML & CSS • Dominando a Web do futuro. Este repositório servirá como um registro do meu progresso e insights obtidos ao longo do estudo.
+
+<hr>
+
+**<a href='/Lógica • JavaScript/'> 1. Lógica & Estrutura de Dados • JS  </a>** <br>
+**<a href='/Estilização • HTML & CSS/'> 2. HTML & CSS </a>**
 
 
-# tecnologias de estudo <a name="id04"></a>
+# tecnologias de estudo <a name="id02"></a>
 
 <div  align='center'> 
  
@@ -52,17 +57,16 @@ Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e Jav
 
 </div>
 
-# documentação e cursos <a name="id04.01"></a>
+# documentação e cursos <a name="id02.01"></a>
 
 <div  align='center'> 
 
- [![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  [![cdc](https://img.shields.io/badge/casa_do_código-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.casadocodigo.com.br/)
  
 
 </div>
 
-# ambiente de codificação <a name="id05"></a>
+# ambiente de codificação <a name="id03"></a>
 
 <div  align='center'> 
 
@@ -73,7 +77,7 @@ Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e Jav
 </div>
 
 
-# clonagem e instalação <a name="id06"></a>
+# clonagem e instalação <a name="id04"></a>
 
 Clone este repositório usando o comando:
 
@@ -83,7 +87,7 @@ git clone https://github.com/ojonatasquirino/cdc-frontend.git
 
 [comment]: <> (Adicione o link da implatação, se houver)
 
-# autoria <a name="id07"></a>
+# autoria <a name="id05"></a>
 
 [comment]: <> (Adicione seu nome e função)
 
@@ -99,10 +103,6 @@ git clone https://github.com/ojonatasquirino/cdc-frontend.git
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">
 ![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://twitter.com/ojonatasquirino)
-
-[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
-[![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
+[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino) [![github](https://img.shields.io/badge/Github-0D1117?style=for-the-badge&logo=github&logoColor=fff)](https://www.github.com/ojonatasquirino)
 </div>
-
 
