@@ -42,8 +42,8 @@ Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e Jav
 <hr>
 
 **<a href='/Lógica • JavaScript/'> 1. Lógica & Estrutura de Dados • JS  </a>** <br>
-**<a href='/Estilização • HTML & CSS/'> 2. HTML & CSS </a>**
-
+**<a href='/ECMASCRIPT • Versão Padrão/'> 2. ECMASCRIPT • Versão Padrão </a>** <br>
+**<a href='/Estilização • HTML & CSS/'> 3. HTML & CSS </a>**
 
 # tecnologias de estudo <a name="id02"></a>
 
