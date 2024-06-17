@@ -9,7 +9,7 @@
   />
   <image
   src="https://img.shields.io/github/languages/top/ojonatasquirino/cdc-frontend"
-  />
+  /> 
   <image
   src="https://img.shields.io/github/last-commit/ojonatasquirino/cdc-frontend"
   />
