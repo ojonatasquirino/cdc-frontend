@@ -1,0 +1,55 @@
+<script>
+  // concatenação • string e números
+  document.write('Soma da nossas idades é: ');
+  document.write(24 + 23 + 20);
+  pulaLinha()
+
+  document.write('A média das nossas idades é: ');
+  document.write((24 + 23 + 21) / 3);
+  pulaLinha()
+
+  document.write('A diferença da minha idade e da de Vítor é: ')
+  document.write(30 - 23 + ' anos');
+  document.write('<hr>');
+
+  var ano = 2024;
+  document.write('eu nasci em: ' + (ano - 23));
+  pulaLinha()
+  document.write('Vic nasceu em ' + (ano - 25));
+  pulaLinhaTracejada()
+
+  // variáveis
+  var eu = 24,
+    vic = 25,
+    bru = 20,
+    total = eu + vic + bru,
+    media = total / 3
+  document.write('A soma das idades é ' + total);
+  pulaLinha()
+  document.write('A média das idades é ' + Math.round(media));
+
+  // aplicando funções
+  mostra('eu nasci em ' + (ano - 23));
+  mostra('Vic nasceu em ' + (ano - 25));
+  mostra('Bru nasci em ' + (ano - 20));
+  console.log(ano, eu, vic, bru);
+
+  //  funções 
+  function pulaLinha() {
+    document.write('<br>');
+  }
+
+  function pulaLinhaTracejada() {
+    document.write('<hr>');
+  }
+
+  function mostra(frase) {
+    pulaLinhaTracejada();
+    document.write(frase);
+    pulaLinha();  // função dentro de outra função 
+  }
+
+
+
+
+</script>
