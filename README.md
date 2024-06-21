@@ -37,7 +37,7 @@ Acesse os <a href='https://www.casadocodigo.com.br/collections/front-end-javascr
 # descrição detalhada <a name="id01.01"></a>
 
 
-Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e JavaScript através dos livros da casa do Código Lógica de programação com JavaScript e HTML & CSS • Dominando a Web do futuro. Este repositório servirá como um registro do meu progresso e insights obtidos ao longo do estudo.
+Aqui pretendo explorar a sintaxe e funcionalidades principais do HTML, CSS e JavaScript através dos livros da casa do Código Lógica de programação com JavaScript e HTML & CSS • Dominando a Web do futuro. Este repositório servirá como um registro do meu progresso e insights obtidos ao longo do estudo. 
 
 <hr>
 
