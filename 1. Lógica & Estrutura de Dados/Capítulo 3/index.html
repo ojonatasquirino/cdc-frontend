@@ -1,0 +1,25 @@
+<script>
+
+    function calculaIMC(altura, peso) {
+        var imc = parseInt(peso / (altura * altura));
+        return imc;
+    }
+
+    var alturaDeVic = 1.59;
+    var pesoDeVic = 55;
+    var imc = calculaIMC(alturaDeVic, pesoDeVic);
+    mostra('O IMC de Vic é ' + imc);
+    mostra('Ela está com ' + (imc - 18.5) + ' pontos acima do limite de magreza');
+
+
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha()
+    }
+
+    function pulaLinha() {
+        document.write('<br>');
+    }
+    
+
+</script>
